@@ -215,7 +215,7 @@ For Hyprland Desktop environemt:
    pacman -S hyprland
    reboot
    ```
-For Hyprland hyprdot configuration, please refer to the [Hyprland Repository](#).
+For Hyprland hyprdot configuration, please refer to the [Hyprland Repository](https://github.com/Anush980/hyprdot-config).
 
 ---
 
