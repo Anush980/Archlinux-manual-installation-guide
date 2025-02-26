@@ -221,3 +221,16 @@ For Hyprland hyprdot configuration, please refer to the [Hyprland Repository](#)
 
 This completes the manual Arch Linux installation process. Happy exploring!
 
+---
+ ### Additional things i love to do:
+```bash
+ sudo nano /etc/default/grub
+```
+set timeout to 0 and change the code:<br>
+```bash
+GRUB_CMDLINE_LINUX_DEFAULT = "loglevel=3 splash"
+```
+Save and exit from nano.
+```bash
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+```
