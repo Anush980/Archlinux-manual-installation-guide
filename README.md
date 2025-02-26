@@ -203,7 +203,8 @@ If you don't know how to make bootable pendrive then switch back to window,You a
    systemctl enable NetworkManager
    systemctl enable bluetooth
    ```
-Now,Time to setup Desktop environment.
+Now, Time to setup Desktop environment.<br>
+---
 For Gnome Desktop environemt:
  ```bash
    pacman -S gnome gnome-extra
