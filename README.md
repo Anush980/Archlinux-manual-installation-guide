@@ -209,6 +209,11 @@ For Gnome Desktop environemt:
    pacman -S gnome gnome-extra
    reboot
    ```
+For Hyprland Desktop environemt:
+ ```bash
+   pacman -S hyprland
+   reboot
+   ```
 For Hyprland installation, please refer to the [Hyprland Repository](#).
 
 ---
