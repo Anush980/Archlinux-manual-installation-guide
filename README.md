@@ -172,6 +172,7 @@ If you don't know how to make bootable pendrive then switch back to window,You a
    visudo
    ```
    Uncomment `%wheel ALL=(ALL:ALL) ALL`. Save and exit.
+> To save and exit press escape and enter :wq or :x and enter.
 
 ---
 
