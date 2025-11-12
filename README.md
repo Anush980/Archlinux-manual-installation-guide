@@ -67,6 +67,11 @@ If you don't know how to make bootable pendrive then switch back to window,You a
    ```
    Displays information about your disks and partitions.
 
+1.5) optional : format disk 
+     ```bash 
+     wipefs -a /dev/sdb
+     ```
+
 2. Create partitions:
    ```bash
    gdisk /dev/<disk>
